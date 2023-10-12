@@ -1,4 +1,3 @@
-
 # The Data Science Process
 
 ## Introduction
@@ -16,7 +15,7 @@ There is much more to data science than just selecting, applying and tuning Mach
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/learn-co-curriculum/dsc-the-data-science-process/master/images/image_process.png" width="950">
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/image_process.png" width="950">
 
 <br>
 <br>
@@ -37,7 +36,7 @@ Before trying to solve a data related problem, it is important that a Data Scien
 * Which items would a user prefer? E.g. Recommending new products (such as movies, books or music) to existing customers (Recommendation systems)
 
 <br>
-<img src="https://raw.githubusercontent.com/learn-co-curriculum/dsc-the-data-science-process/master/images/image_domain.png" width="450">
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/image_domain.png" width="450">
 <br>
 
 ## Data Mining
@@ -53,7 +52,7 @@ Data mining is a process of identifying and collecting data of interest from dif
 * Are there any privacy/legal issues that I must consider prior to using this data?
 <br>
 <br>
-<img src='https://raw.githubusercontent.com/learn-co-curriculum/dsc-the-data-science-process/master/images/image_datamining.png' width="650">
+<img src='https://curriculum-content.s3.amazonaws.com/data-science/images/image_datamining.png' width="650">
 <br>
 
 ## Data Cleaning
@@ -69,7 +68,7 @@ Data cleaning is usually the most time-consuming stage of the Data Science proce
 
 This stage requires the development of a careful strategy on how to deal with these issues. Such a strategy may vary substantially between different analyses depending on the nature of problems being solved. 
 
-<img src='https://raw.githubusercontent.com/learn-co-curriculum/dsc-the-data-science-process/master/images/image_data_cleaning_corrected.png' width="600">
+<img src='https://curriculum-content.s3.amazonaws.com/data-science/images/image_data_cleaning_corrected.png' width="600">
 
 ## Data Exploration
 
@@ -79,14 +78,14 @@ Data exploration or Exploratory Data Analysis (EDA) helps highlight the patterns
 * Creating a range of plots including histograms, scatter plots, and distribution curves to identify trends in the data
 * Other interactive visualizations to focus on a specific segments of data 
 
-<img src='https://raw.githubusercontent.com/learn-co-curriculum/dsc-the-data-science-process/master/images/image_exploration.png' width="500">
+<img src='https://curriculum-content.s3.amazonaws.com/data-science/images/image_exploration.png' width="500">
 
 
 ## Feature Engineering
 
 A "Feature" is a measurable attribute of the phenomenon being observed - the number of bedrooms in a house or the weight of a vehicle. Based on the nature of the analytical question asked in the first step, a Data Scientist may have to engineer additional features not found in the original dataset. Feature engineering is the process of using expert knowledge to transform raw data into meaningful features that directly address the problem you are trying to solve. For example, taking weight and height to calculate Body Mass Index for the individuals in the dataset. This stage will substantially influence the accuracy of the predictive model you construct in the next stage. 
 
-<img src='https://raw.githubusercontent.com/learn-co-curriculum/dsc-the-data-science-process/master/images/image_engineering.png' width="500">
+<img src='https://curriculum-content.s3.amazonaws.com/data-science/images/image_engineering.png' width="500">
 
 ## Predictive Modeling
 
@@ -94,7 +93,7 @@ Modeling is the stage where you use mathematical and/or statistical approaches t
 
 Choosing the "right" model is often a challenging decision as there is never a single right answer. Selecting a model involves balancing the accuracy and computational cost of the analysis process. For example, some recent approaches in predictive modeling such as deep learning have been shown to offer vastly improved accuracy of results, but with a very high computational cost.
 
-<img src='https://raw.githubusercontent.com/learn-co-curriculum/dsc-the-data-science-process/master/images/image_predictive.png' width="250">
+<img src='https://curriculum-content.s3.amazonaws.com/data-science/images/image_predictive.png' width="250">
 
 ## Data Visualization
 
@@ -102,7 +101,7 @@ After deriving the required results from a statistical model, visualizations are
 
 Data visualization could be thought of as an evolution of visual communication techniques as it deals with the visual representation of data. There are a wide range of different data visualization techniques, from bar graphs, line graphs and scatter plots to alluvial diagrams and spatio-temporal visualizations, each of which will work better for presenting certain types of information.
 
-<img src='https://raw.githubusercontent.com/learn-co-curriculum/dsc-the-data-science-process/master/images/image_visualization.png' width="650">
+<img src='https://curriculum-content.s3.amazonaws.com/data-science/images/image_visualization.png' width="650">
 
 ## Summary
 
